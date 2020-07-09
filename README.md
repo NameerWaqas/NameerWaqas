@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: If I don't code for even two days I feel like, something is missing in life.
 
-- 👯 I’m looking to collaborate on a project need a developer with above mentioned expertise and have knowledge oriented enviroment.
+- 👯 I’m looking to collaborate on a project which needs a developer with above mentioned expertise and have knowledge oriented enviroment.
 
 - 📫 How to reach me: https://www.linkedin.com/in/nameerwaqas
 
