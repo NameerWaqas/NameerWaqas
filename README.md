@@ -1,6 +1,8 @@
-# Hi there 👋
+## Hi there 👋
 
+### This is Nameer Waqas. I am a computer programming enthusiast and an aspiring JavaScript developer.
 
+- 🔭 I’m currently working on ...
 
 <!--
 **NameerWaqas/NameerWaqas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
