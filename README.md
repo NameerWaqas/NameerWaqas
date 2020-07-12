@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-### This is Nameer Waqas. I am a computer programming enthusiast and a Javascript devloper having project experience on both front-end and back-end.
+### This is Nameer Waqas. I am a computer programming enthusiast and a Javascript devloper having project experience on both front-end and API development on back-end.
 
 ### I am also a aspiring Python developer having beginner level knowledge of Django full stack framework.
 
-- 🔭 I’m currently working on a an interactive ML blog web app as a front-end developer.
+- 🔭 I’m currently working on a an interactive ML blog web app as a Front-end/React.js developer.
 
 - 🌱 I’m currently learning React and React Native advanced practices as well as more on design patterns and state management.
 
