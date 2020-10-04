@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### This is Nameer Waqas. I am a computer programming enthusiast and a Javascript devloper having project experience on both front-end and API development on back-end.
+### This is Nameer Waqas.
 
 - 🌱 I’m currently learning React and React Native advanced practices as well as more on design patterns and state management.
 
