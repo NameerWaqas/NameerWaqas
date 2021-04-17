@@ -4,13 +4,16 @@
       <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   I'm <strong>Nameer Waqas</strong>, a passionate self-taught MERN stack dveloper from Pakistan. Since the very first line of code I write in my life till now, I am obsessed with writing software programs that manipulate data and produce results. I am an undergraduate student, wants to pursue a career in JavaScript development.
 My core competencies are:
-1) JavaScript and ReactJs to build a cross-browser web front-end.
-2) Redux, Context API, and react router to follow the react web design pattern.
-3) NodeJs to build API's.
+      <ol>
+<li>JavaScript and ReactJs to build a cross-browser web front-end.</li>
+<li>Redux, Context API, and react router to follow the react web design pattern.</li>
+<li>NodeJs to build REST API's.</li>
+</ol>
 Moreover, My areas under development are:
-1) Mastering MERN stack development and React native development.
-2) Getting myself into cloud computing and cloud services.
-
+<ul>
+<li>Mastering MERN stack development and React native development.</li>
+<li>Getting myself into cloud computing and cloud services.</li>
+</ul>
 Finally, I am a self-motivated person who can work under pressure and provide solutions that adds value to your business. Open for new opportunities.</p>
 
 <h3>Things I code with</h3>
@@ -45,4 +48,4 @@ Finally, I am a self-motivated person who can work under pressure and provide so
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&theme=gotham" alt="nameerwaqas" />
   
-### Credits:<p> <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> and <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a></p>
+<h6>Credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> and <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a></p>
