@@ -33,12 +33,14 @@ Finally, I am a self-motivated person who can work under pressure and provide so
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Connect with me at: <a href="https://twitter.com/nameerwaqas">
-  <img align="center" alt="Nameer Waqas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/nameerwaqas/">
+<h3>Connect with me at: 
+      <a href="https://www.linkedin.com/in/nameerwaqas/">
   <img align="center" alt="Nameer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a></h3>
+</a>
+      <a href="https://web.facebook.com/nameerwaqas/">
+  <img align="center" alt="Nameer Waqas | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+</h3>
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&theme=gotham" alt="nameerwaqas" />
