@@ -46,6 +46,6 @@ Finally, I am a self-motivated person who can work under pressure and provide so
 </h3>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&theme=gotham" alt="nameerwaqas" />
+<p align="center"> <img  width="100%" height="230px" src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&theme=gotham" alt="nameerwaqas" />
   
 <h6>Credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> and <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a></p>
