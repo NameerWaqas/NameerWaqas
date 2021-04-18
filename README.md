@@ -36,6 +36,11 @@ Finally, I am a self-motivated person who can work under pressure and provide so
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<h3> &#x1f4c8; GitHub Stats</h3>
+<p align="center"><a href="https://github.com/NameerWaqas">
+  <img width="65%" align="center" src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=6aa6f8&bg_color=003140" alt="Nameer's GitHub Stats" />
+</a></p>
+
 <h3>Connect with me at: 
       <a href="https://www.linkedin.com/in/nameerwaqas/">
   <img align="center" alt="Nameer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -45,7 +50,4 @@ Finally, I am a self-motivated person who can work under pressure and provide so
 </a>
 </h3>
 
-<p align="center"><a href="https://github.com/NameerWaqas">
-  <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=6aa6f8&bg_color=003140" alt="Nameer's GitHub Stats" />
-</a></p>
-<h6>Credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a></p>
+<h6>credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a></p>
