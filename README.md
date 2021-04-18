@@ -41,13 +41,14 @@ Finally, I am a self-motivated person who can work under pressure and provide so
   <img width="65%" align="center" src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=6aa6f8&bg_color=003140" alt="Nameer's GitHub Stats" />
 </a></p>
 
-<h3>Connect with me at: 
+<h6>credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a></p>
+
+
+<p>
       <a href="https://www.linkedin.com/in/nameerwaqas/">
   <img align="center" alt="Nameer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
       <a href="https://web.facebook.com/nameerwaqas/">
   <img align="center" alt="Nameer Waqas | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-</h3>
-
-<h6>credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a></p>
+</p>
