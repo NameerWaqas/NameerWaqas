@@ -44,12 +44,10 @@ Finally, I am a self-motivated person who can work under pressure and provide so
   <img align="center" alt="Nameer Waqas | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 </h3>
-<p align="center">
 <a href="https://github.com/NameerWaqas">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NameerWaqas&hide=c%2B%2B,c,html&title_color=fff&text_color=fff&icon_color=6aa6f8&bg_color=003140" alt="Nameer's GitHub Stats" />
 </a>
 <a href="https://github.com/NameerWaqas">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=6aa6f8&bg_color=003140" alt="Nameer's GitHub Stats" />
 </a>
- </p>
 <h6>Credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a></p>
