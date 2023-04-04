@@ -28,10 +28,10 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3> &#x1f4c8; GitHub Stats</h3>
-<p align="center"><a href="https://github.com/NameerWaqas">
-  <img width="65%" align="center" src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=00B2DF&bg_color=003140" alt="Nameer's GitHub Stats" />
-</a></p>
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)
   
@@ -40,12 +40,3 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
 
 <h6>credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a> , <a href="https://github.com/sciencepal/sciencepal/blob/master/README.md">sciencepal</a>,
  <a href="https://github.com/cxyfreedom/cxyfreedom/blob/master/README.md">cxyfreedom</a></p>
-
-<p>
-      <a href="https://www.linkedin.com/in/nameerwaqas/">
-  <img align="center" alt="Nameer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-      <a href="https://web.facebook.com/nameerwaqas/">
-  <img align="center" alt="Nameer Waqas | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-</p>
