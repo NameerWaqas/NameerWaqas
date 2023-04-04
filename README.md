@@ -38,8 +38,8 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h6>credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a> , <a href="https://github.com/sciencepal/sciencepal/blob/master/README.md">sciencepal</a></p>
-
+<h6>credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a> , <a href="https://github.com/sciencepal/sciencepal/blob/master/README.md">sciencepal</a>,
+ <a href="https://github.com/cxyfreedom/cxyfreedom/blob/master/README.md">cxyfreedom</a></p>
 
 <p>
       <a href="https://www.linkedin.com/in/nameerwaqas/">
