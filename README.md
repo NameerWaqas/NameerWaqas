@@ -1,4 +1,4 @@
-<h1>Hey! Nice to see you.</h1>
+<h1>Hello World!</h1>
 
 <p>
       <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -32,6 +32,8 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
 <p align="center"><a href="https://github.com/NameerWaqas">
   <img width="65%" align="center" src="https://github-readme-stats.vercel.app/api?username=NameerWaqas&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=00B2DF&bg_color=003140" alt="Nameer's GitHub Stats" />
 </a></p>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=20)](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=20)
 
 <h6>credits: <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a> , <a href="https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md">thmsgbrt</a> , <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">Zhenye-Na</a></p>
 
