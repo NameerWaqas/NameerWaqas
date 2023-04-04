@@ -1,20 +1,12 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hey! Nice to see you.</h1>
 
 <p>
       <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  I'm <strong>Nameer Waqas</strong>, a passionate self-taught MERN stack developer from Pakistan. Since the very first line of code I write in my life till now, I am obsessed with writing software programs that manipulate data and produce results. I am an undergraduate student, wants to pursue a career in JavaScript development.
-My core competencies are:
-      <ol>
-<li>JavaScript and ReactJs to build a cross-browser web front-end.</li>
-<li>Redux, Context API, and react router to follow the react web design pattern.</li>
-<li>NodeJs to build REST API's.</li>
-</ol>
-Moreover, My areas under development are:
-<ul>
-<li>Mastering MERN stack development and React native development.</li>
-<li>Getting myself into cloud computing and cloud services.</li>
-</ul>
-Finally, I am a self-motivated person who can work under pressure and provide solutions that adds value to your business. Open for new opportunities.</p>
+My name is Nameer Waqas, and I'm a dedicated full-stack developer currently working in the retail sector. With my expertise in cross-browser web application development, monolithic or microservices-based backend development, serverless and cloud-native application development, and cross-platform mobile application development, I'm able to build scalable and efficient solutions to meet the needs of modern businesses.
+
+While I excel in these areas, I'm always striving to improve and expand my skills. I'm particularly interested in mastering full-stack development and deepening my knowledge of system design, which will allow me to build more robust and scalable applications. My commitment to continuous learning and improvement is a key part of my work ethic, and it allows me to stay at the forefront of the latest technologies and best practices in the industry.
+
+As a self-motivated problem solver, I'm always eager to take on new challenges and provide effective solutions that add value to my clients' businesses. I enjoy working under pressure and collaborating with others to achieve shared goals. If you're looking for a skilled full-stack developer who can help take your business to the next level, I would be happy to discuss how I can contribute to your team. Please feel free to take a look at my Github profile for more information about my projects and contributions.</p>
 
 <h3>Things I code with</h3>
 <p>
