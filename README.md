@@ -43,14 +43,14 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
 </p>
 
 ### Quick stats about me
-| Github Stats | Top Languages |
+| Github Stats | Leetcode Stats |
 | --- | --- |
-| ![Nameer's github stats](https://github-readme-stats.vercel.app/api?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Nameer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Nameer's github stats](https://github-readme-stats.vercel.app/api?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![LeetCode Stats](https://leetcard.jacoblin.cool/nameerwaqas?theme=nord&font=Iceberg)|
 
 
-| Streaks| Leetcode Stats |
+| Streaks| Top Languages |
 | --- | --- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=nameerwaqas&theme=dark)](https://git.io/streak-stats) | ![LeetCode Stats](https://leetcard.jacoblin.cool/nameerwaqas?theme=nord&font=Iceberg) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=nameerwaqas&theme=dark)](https://git.io/streak-stats) | ![Nameer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)
 
