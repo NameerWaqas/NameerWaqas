@@ -45,7 +45,12 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Nameer's github stats](https://github-readme-stats.vercel.app/api?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Nameer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+
+| Leetcode Stats |
+| --- |
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/nameerwaqas?theme=nord&font=Iceberg&ext=activity) |
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)
 
