@@ -70,5 +70,5 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
       <a href="https://github.com/syrashid/syrashid/blob/main/README.md">syrashid</a>,
       <a href="https://github.com/BrunnerLivio/brunnerlivio/blob/master/README.md">brunnerlivio</a>,
       <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card/blob/main/README.md">jacoblincool</a>,
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/README.md">denvercoder1</a>,
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/README.md">denvercoder1</a>
 </h6>
