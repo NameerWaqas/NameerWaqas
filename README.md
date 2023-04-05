@@ -48,11 +48,13 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-**If you like this readme file, please give me star! ❤️**
+<!-- Footer -->
+<div align="center" style="margin-top:0">
+<img height="60" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+![Visitor Count](https://profile-counter.glitch.me/nameerwaqas/count.svg)
+</div>
 
 <h6>credits: 
       <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md">abhisheknaiidu</a>, 
@@ -60,5 +62,6 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
       <a href="https://github.com/Zhenye-Na/zhenye-na/blob/master/README.md">zhenye-na</a>, 
       <a href="https://github.com/sciencepal/sciencepal/blob/master/README.md">sciencepal</a>, 
       <a href="https://github.com/cxyfreedom/cxyfreedom/blob/master/README.md">cxyfreedom</a>, 
-      <a href="https://github.com/syrashid/syrashid/blob/main/README.md">syrashid</a>
+      <a href="https://github.com/syrashid/syrashid/blob/main/README.md">syrashid</a>,
+      <a href="https://github.com/BrunnerLivio/brunnerlivio/blob/master/README.md">brunnerlivio</a>
 </h6>
