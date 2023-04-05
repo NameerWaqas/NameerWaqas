@@ -8,7 +8,7 @@ While I excel in these areas, I'm always striving to improve and expand my skill
 
 As a self-motivated problem solver, I'm always eager to take on new challenges and provide effective solutions that add value to my clients' businesses. I enjoy working under pressure and collaborating with others to achieve shared goals. If you're looking for a skilled full-stack developer who can help take your business to the next level, I would be happy to discuss how I can contribute to your team. Please feel free to take a look at my Github profile for more information about my projects and contributions.</p>
 
-<h3>Things I code with</h3>
+### Things I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="React" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -52,7 +52,8 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
 | --- | --- |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=nameerwaqas&theme=dark)](https://git.io/streak-stats) | ![Nameer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)
+### My profile trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)
 
 <!-- Footer -->
 <div align="center" style="margin-top:0">
