@@ -48,9 +48,9 @@ As a self-motivated problem solver, I'm always eager to take on new challenges a
 | ![Nameer's github stats](https://github-readme-stats.vercel.app/api?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Nameer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameerwaqas&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
-| Leetcode Stats |
-| --- |
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/nameerwaqas?theme=nord&font=Iceberg&ext=activity) |
+| Streaks| Leetcode Stats |
+| --- | --- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=nameerwaqas&theme=dark)](https://git.io/streak-stats) | ![LeetCode Stats](https://leetcard.jacoblin.cool/nameerwaqas?theme=nord&font=Iceberg) |
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)](https://github-profile-trophy.vercel.app/?username=nameerwaqas&theme=onedark&row=1&margin-w=40)
 
